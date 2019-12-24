@@ -1,2 +1,3 @@
-Hello douchebags
-. What is up. How are all of u doin today. Coding is fun, Biology is annoying.
+Hello, this is a word counter. It counts the number of words in a text file. It also displays the usage frequency of a word.
+This word counter works on counting the spaces between words in a text file.
+Bye!
